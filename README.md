@@ -5,4 +5,4 @@ Cujo o objeivo é aprender manusear o Flexbox no Css
 - HTML
 - CSS/Flexbox
 - JavaScript
-Neste projeto, implementei o scroll suave em JavaScript puro.
+#### Neste projeto, implementei o scroll suave em JavaScript puro.
